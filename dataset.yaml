@@ -1,0 +1,7 @@
+train: C:\Users\anton\Desktop\新增資料夾 (4)\train
+val: C:\Users\anton\Desktop\新增資料夾 (4)\val
+test: C:\Users\anton\Desktop\新增資料夾 (4)\test
+
+names: 
+  0: Median nerve
+  1: Artery
